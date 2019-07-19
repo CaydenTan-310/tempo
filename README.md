@@ -1,6 +1,6 @@
 <html>
 <head>
-  <title>Tempo</title>
+Tempo
 </head>
 <body>
 <h1>Temporary</h1>
